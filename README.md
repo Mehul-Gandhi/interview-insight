@@ -3,7 +3,7 @@
 InterView InSight is an AI platform that allows users to practice their presentation skills. 
 
 
-![Interface](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/511/055/datas/gallery.jpg)
+![Interface](https://cdn.discordapp.com/attachments/1050069464156221451/1120463790065074256/image.png)
 
 ## Description
 
